@@ -1,0 +1,108 @@
+body{
+	background: -webkit-linear-gradient(90deg, rgb(237, 215, 22), rgb(90, 71, 20));
+	background: linear-gradient(90deg, rgb(237, 215, 22), rgb(90, 71, 20));
+	background-image:url(http://www.museumtextures.com/wp-content/uploads/ciel-blanc-couvert-1500-300-museumtextures.com-1310221621.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin: 10%;
+}
+
+h1, h2{
+	font-family: Helvetica, sans-serif;
+	line-height: 150%;
+	font-size: 150%;
+	color: red;
+}
+
+p, legend, figcaption, ol, table{
+	font-family: Times, serif;
+	line-height: 150%;
+	font-size: 150%;
+	color: green;
+}
+
+.aj{
+	background-color: yellow;
+}
+
+.aaa{
+	font-family: Times, serif;
+	line-height: 150%;
+	font-size: 160%;
+	color: green;
+	width: 50%;
+	margin: 25%;
+	font-style: italic;
+	background-color: lightgray;
+	border-left: 3px red solid;
+	padding-left: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.village{
+	font-family: Times, serif;
+	line-height: 150%;
+	font-size: 160%;
+	color: green;
+	width: 50%;
+	margin: 25%;
+	font-style: italic;
+	background-color: lightgray;
+	border-left: 3px black solid;
+	padding-left: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.fermier{
+	font-family: Times, serif;
+	line-height: 150%;
+	font-size: 160%;
+	color: green;
+	width: 50%;
+	margin: 25%;
+	font-style: italic;
+	background-color: lightgray;
+	border-left: 3px white solid;
+	padding-left: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: green;
+}
+
+.bien{
+	color: green;
+}
+
+.mal{
+	color: red;
+}
+
+.tr3, .tr5{
+	background-color: gray;
+}
+
+.tr2, .tr4{
+	background-color: white;
+}
+
+table, tr{
+	border: 1px solid grey
+}
+
+td, th{
+	font-family: Times, serif;
+}
