@@ -2,7 +2,7 @@
 
 code utilisé : hmtl css
 
-outil utilisé : sublimetext
+outil utilisé : sublimetext 000webhost
 
 complément : https://creageo.github.io/3-progressive-enhancement/ https://ex2bege.000webhostapp.com/
 
