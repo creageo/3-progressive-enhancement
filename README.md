@@ -4,7 +4,7 @@ code utilisé : hmtl css
 
 outil utilisé : sublimetext
 
-complément : https://creageo.github.io/3-progressive-enhancement/
+complément : https://creageo.github.io/3-progressive-enhancement/ https://ex2bege.000webhostapp.com/
 
 code valide : oui
 
