@@ -22,6 +22,26 @@ p, legend, figcaption, ol, table{
 	color: green;
 }
 
+a:visited {
+	color: blue;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: green;
+}
+
+table, tr{
+	border: 1px solid grey
+}
+
+td, th{
+	font-family: Times, serif;
+}
+
 .aj{
 	background-color: yellow;
 }
@@ -71,18 +91,6 @@ p, legend, figcaption, ol, table{
 	padding-bottom: 80px;
 }
 
-a:visited {
-	color: blue;
-}
-
-a:hover {
-	color: red;
-}
-
-a:active {
-	color: green;
-}
-
 .bien{
 	color: green;
 }
@@ -97,12 +105,4 @@ a:active {
 
 .tr2, .tr4{
 	background-color: white;
-}
-
-table, tr{
-	border: 1px solid grey
-}
-
-td, th{
-	font-family: Times, serif;
 }
