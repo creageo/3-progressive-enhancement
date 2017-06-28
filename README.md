@@ -8,7 +8,7 @@ complément : https://creageo.github.io/3-progressive-enhancement/
 
 code valide : oui
 
-non-voyants : 
+non-voyants : oui
 
 sanitizé et validé : /
 
