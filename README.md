@@ -1,16 +1,16 @@
 # 3-progressive-enhancement
 
-code utilisé : hmtl css php pure
+code utilisé : hmtl css
 
-outil utilisé : sublimetext apache 000webhost
+outil utilisé : sublimetext
 
 complément : https://creageo.github.io/3-progressive-enhancement/
 
 code valide : oui
 
-non-voyants : oui
+non-voyants : 
 
-sanitizé et validé : oui
+sanitizé et validé : /
 
 responsive : oui
 
