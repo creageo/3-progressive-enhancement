@@ -1,13 +1,19 @@
 # 3-progressive-enhancement
 
-code utilisé :
+code utilisé : hmtl css php pure
 
-outil utilisé :
+outil utilisé : sublimetext apache 000webhost
 
-complément :
+complément : https://creageo.github.io/projet-2-QCM/ https://creageo2.000webhostapp.com/
 
-validé :
+code valide : oui
 
-responsive :
+non-voyants : oui
 
-sanitizé :
+sanitizé et validé : oui
+
+responsive : oui
+
+exercice : https://github.com/becodeorg/BXLCentral/tree/master/Projects/2-QCM
+
+mon evaluation sur 10 : 6/10
