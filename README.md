@@ -16,4 +16,4 @@ responsive : oui
 
 exercice : https://github.com/becodeorg/BXLCentral/tree/master/Projects/3-progressive-enhancement
 
-mon evaluation sur 10 : 6/10
+mon évaluation sur 10 : 6/10
